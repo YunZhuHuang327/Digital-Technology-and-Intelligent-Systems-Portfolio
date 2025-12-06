@@ -12,6 +12,11 @@ This repository is a portfolio of digital technology and intelligent systems pro
 
 - **Infrared Remote-Controlled Piano**  
   An interactive electronic piano that can be operated remotely via an infrared controller, combining music with creative technology.
+  
+ ## Demo Videos
+
+Watch demonstrations and walkthroughs of the projects on my YouTube playlist:  
+https://www.youtube.com/playlist?list=PLTnsCfQIeT6XunEtYm6uW6Z-yud4TKNar
 
 ## Technical Highlights
 
